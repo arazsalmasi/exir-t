@@ -1,0 +1,13 @@
+{
+  "name": "react-financial-charts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-financial-charts": "1.0.1"
+  }
+}
